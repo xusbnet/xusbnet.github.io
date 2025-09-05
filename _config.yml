@@ -1,7 +1,8 @@
 title: XUSB.NET
 description: 技术 · IP · Growth
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-remote-theme

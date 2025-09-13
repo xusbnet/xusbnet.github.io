@@ -1,6 +1,6 @@
 ---
 layout: default
-title: index
+title: XUSB
 ---
 
 # Welcome to XUSB.NET

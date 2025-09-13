@@ -6,7 +6,7 @@ title: XUSB
 # Welcome to XUSB.NET
 Hello test
 
-## 最新文章
+## Latest articles
 <ul>
 {% for post in site.posts limit:5 %}
   <li>
